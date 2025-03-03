@@ -58,3 +58,8 @@ PPO is a reinforcement learning algorithm designed to improve the training proce
 ### Reward System
 
 In reinforcement learning, agents learn by interacting with the environment and receiving feedback in the form of rewards. The reward system is crucial in guiding the agent's behavior. Positive rewards encourage desired actions, while negative rewards discourage undesired actions. By designing a well-structured reward system, we can ensure that the agent learns to make decisions that lead to optimal performance in the game.
+
+## Acknowledgment
+
+The initial bot code and example setup were forked from [GoslingUtils](https://github.com/ddthj/GoslingUtils).
+
